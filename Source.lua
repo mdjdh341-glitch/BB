@@ -5,4 +5,5 @@
 
 --(script)
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f72223000bf529bfa6b14e7750439a420e465d25399341decd59e10c3d56f217/download"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/clanker291-star/Bink-s-Auto-Parry-HubV3/refs/heads/main/Parry%20V3"))()
